@@ -1,6 +1,6 @@
 ## Welcome to the Free Ebook Foundation's Github Pages
 
-This site is the home for [Free-Programming-Books](free-programming-books/).
+This site is the home for [Free-Programming-Books](https://ebookfoundation.github.io/).
 
 Other projects which call the [Free Ebook Foundation](https://ebookfoundation.org) home:
 
